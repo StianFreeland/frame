@@ -1,0 +1,7 @@
+.idea
+logs
+*.sh
+rc.txt
+zlog.txt
+frame
+frame.exe
